@@ -1,0 +1,63 @@
+#Ini {
+    text-align: center;
+    font-size: 15px;
+    background: rgba(252, 4, 4, 0.332);
+    padding: 0.1px 0.1px;
+    color: rgb(7, 177, 245);
+    
+}
+
+header ul a {
+    color: rgb(72, 9, 247);
+    margin: 0 60px;
+}S
+
+header {
+    background: url(../#063970);
+    background-size: cover;
+    background-position: center;
+    min-height: 100vh;
+    width: 100%;
+    padding-top: 40px;
+}
+
+#hero form input {
+    display: flex;
+    padding: 5px 1px;
+    width: 300px;
+    font-size: 15px;
+    margin: 10px auto;
+}
+
+#hero form button {
+    font-size: 15px;
+    padding: 12px 50px;
+    margin: 0px auto;
+    border-radius: 6px;
+    text-align: center;
+}
+
+#hero form {
+    width: 650px;
+    display: grid;
+    margin: 0 auto;
+    flex-wrap: wrap;
+}
+
+#hero h2 {
+    text-align: center;
+    color: rgb(23, 248, 15);
+}
+
+#tabla {
+    text-align: center;
+    color: rgb(146, 252, 9);
+    border: rgb(9, 248, 9);
+    margin-left: auto;
+    margin-right: auto;
+}
+
+th, td {
+    border: solid 2px rgb(7, 252, 7);
+    padding: 0;
+}
